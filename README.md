@@ -99,19 +99,18 @@ Developed an interactive dashboard with three main pages:
 - Average RFM scores.
 - Churn analysis.
 
+
 ## Dashboard Preview
 
 ### Home Page
-
 ![IKEA Home Page](Screenshots/Home.jpeg)
 
 ### Business Overview
-
 ![IKEA Business Overview](Screenshots/Overview.jpeg)
 
 ### RFM Analysis
-
 ![IKEA RFM Analysis](Screenshots/RFM%20Analysis.jpeg)
+
 
 ## Repository Structure
 
