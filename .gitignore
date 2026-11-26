@@ -1,0 +1,31 @@
+
+# Large datasets
+*.csv
+*.xlsx
+*.xls
+
+# Python cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Temporary files
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+~$*
+
+# Sensitive configuration
+.env
+.env.*
+!.env.example
+
+# Allow selected sample files
+!Python/RetailCleaned.csv
+!Output/Customer_RFM_Analysis_Sample.xlsx
